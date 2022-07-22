@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("./snow.jpg");
+    background-image: url("./spark.jpg");
     background-size: cover;
     background-position: center center;
     display: flex;
@@ -17,15 +17,17 @@ body {
 }
 
 h1 {
-    font-weight: normal;
+    font-weight: bold;
     font-size: 4rem;
     margin-top: 5rem;
+    
 }
 
 .countdown-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    color: black;
 }
 
 .big-text {
